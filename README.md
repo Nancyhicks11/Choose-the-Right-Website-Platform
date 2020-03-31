@@ -1,0 +1,2 @@
+# Choose-the-Right-Website-Platform
+ If you are building a website for the first time, or if you don’t have an in-depth knowledge of HTML5, it’s important for you to use a super simple and intuitive platform to build websites. You need a platform that requires almost no technical knowledge.  You have many options, but I am confident you will decide to use WordPress. WP is the most intuitive platform on the market and the one I use for all my sites. https://templatetester.com/
